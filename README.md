@@ -6,9 +6,9 @@
     <hr>
     <h2>📫 Connect with Me</h2>
     <ul>
-        <li><strong>GitHub:</strong> <a href="#">your_github_link</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/mmkk0744">https://github.com/mmkk0744</a></li>
         <li><strong>LinkedIn:</strong> <a href="#">your_linkedin_link</a></li>
-        <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+        <li><strong>Email:</strong> <a href="mailto:mmkk0744@naver.com">mmkk0744@naver.com</a></li>
     </ul>
     <hr>
     <h2>🛠️ Tech Stack</h2>
