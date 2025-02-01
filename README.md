@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minsang Lee - Developer</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; }
-        h1, h2, h3 { color: #333; }
-        p { margin: 10px 0; }
-        .tech-stack img { margin: 5px; }
-    </style>
-</head>
+
 <body>
     <h1>👋 Hi, I'm Minsang Lee!</h1>
     <h2>💡 A Developer Who Codes Dreams</h2>
