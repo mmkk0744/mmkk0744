@@ -7,7 +7,7 @@
     <h2>📫 Connect with Me</h2>
     <ul>
         <li><strong>GitHub:</strong> <a href="https://github.com/mmkk0744">https://github.com/mmkk0744</a></li>
-        <li><strong>LinkedIn:</strong> <a href="#">your_linkedin_link</a></li>
+        <li><strong>Tableau:</strong> <a href="https://public.tableau.com/app/profile/.47111185/vizzes">https://public.tableau.com/app/profile/.47111185/vizzes</a></li>
         <li><strong>Email:</strong> <a href="mailto:mmkk0744@naver.com">mmkk0744@naver.com</a></li>
     </ul>
     <hr>
