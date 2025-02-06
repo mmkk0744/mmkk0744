@@ -2,7 +2,7 @@
 <body>
     <h1>👋 Hi, I'm Minsang Lee!</h1>
     <h2>💡 A Developer Who Codes Dreams</h2>
-    <p>I'm on a mission to make the world a better place than yesterday, one line of code at a time. Passionate about innovation, problem-solving, and bringing ideas to life through technology.</p>
+    <p>I am Min-sang Lee, a data analyst who identifies opportunities through data and takes action.</p>
     <hr>
     <h2>📫 Connect with Me</h2>
     <ul>
