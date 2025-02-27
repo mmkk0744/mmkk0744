@@ -2,7 +2,7 @@
 <body>
     <h1>👋 Hi, I'm Minsang Lee!</h1>
     <h2>💡 A Developer Who Codes Dreams</h2>
-    <p>I am Min-sang Lee, a data analyst who identifies opportunities through data and takes action.</p>
+    <p> <b> I am Min-sang Lee, a data analyst who identifies opportunities through data and takes action. </b> </p>
     <hr>
     <h2>📫 Connect with Me</h2>
     <ul>
